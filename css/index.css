@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css?family=Bad+Script');
+
+body {
+    background: #fff url('bg-foot.jpg');
+    text-align: center;
+    color: black;
+    max-width: 500px;
+    margin: 7% auto;
+    font-family: Bad Script;
+    font-size: 2.3rem;
+    border: 10px solid black;
+}
